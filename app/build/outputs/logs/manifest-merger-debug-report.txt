@@ -1,0 +1,744 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.databinding:databinding-adapters:8.1.2] /home/gauri/.gradle/caches/transforms-3/bc9a6c1d3328197d7983781549867dff/transformed/databinding-adapters-8.1.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.1.2] /home/gauri/.gradle/caches/transforms-3/b1830322c6619006a22c464d95e98ac4/transformed/databinding-ktx-8.1.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.1.2] /home/gauri/.gradle/caches/transforms-3/18ad26c5484381ca1a3ddeefd9eafa3f/transformed/databinding-runtime-8.1.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/gauri/.gradle/caches/transforms-3/d7ed84c09ceecb028b58d39ff11fc579/transformed/viewbinding-8.1.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/fc453767167616f6175e318440ab8765/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /home/gauri/.gradle/caches/transforms-3/a1249c01808868fc8e59c164bc378f84/transformed/navigation-ui-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.1] /home/gauri/.gradle/caches/transforms-3/d83ea7f71c670c0d372631a200465e73/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gauri/.gradle/caches/transforms-3/49890bb4dcb9580d11fbded874be3373/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gauri/.gradle/caches/transforms-3/8741c1b10a90b687f9aa4d5ab914a0e6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gauri/.gradle/caches/transforms-3/4ee64f6aaf9546023889aaad643cf891/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/gauri/.gradle/caches/transforms-3/22dac88c5d6580f6592572430df8a2fc/transformed/material3-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/gauri/.gradle/caches/transforms-3/cc8285ca0ce17c89fb398296691ecbed/transformed/material-ripple-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/24a56678bf4fc8de26400517b174152d/transformed/material-icons-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.4.0] /home/gauri/.gradle/caches/transforms-3/dfef6dd210f32e4e26b157d0fb3413cf/transformed/material-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/09111d55a2a844662096bfe29bf343d2/transformed/animation-core-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/gauri/.gradle/caches/transforms-3/eb7dbd7b8f3a91bfbd9c75525d03ec55/transformed/animation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/gauri/.gradle/caches/transforms-3/8f1562c4f297618719da4011e53936b0/transformed/foundation-layout-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/gauri/.gradle/caches/transforms-3/7bc69519a0d607d6b7a1414cb92575dc/transformed/foundation-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /home/gauri/.gradle/caches/transforms-3/c2961d6675c3220deb593d00316d20f9/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/gauri/.gradle/caches/transforms-3/d7545651ab5077125ad1eb0fb4d97bed/transformed/ui-unit-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/gauri/.gradle/caches/transforms-3/10745767fa7d5fa46f3eef44b6ed9b43/transformed/ui-geometry-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/gauri/.gradle/caches/transforms-3/f35b2a01883eee86415afc88e88480d1/transformed/ui-util-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/gauri/.gradle/caches/transforms-3/4649673646d5d75d24819c32a0a0a6ce/transformed/ui-text-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/gauri/.gradle/caches/transforms-3/3a02e2d142cb56ae272856184c14ea64/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/gauri/.gradle/caches/transforms-3/3ef2c9e922008943a04dd6443e395566/transformed/ui-graphics-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /home/gauri/.gradle/caches/transforms-3/d94567acd6211eb00a8399638b286179/transformed/recyclerview-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/gauri/.gradle/caches/transforms-3/8b21ff3d2e3434399f0eba66382f3c7e/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/gauri/.gradle/caches/transforms-3/7c349e32983bee36439a53f491a5b706/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/gauri/.gradle/caches/transforms-3/31f5173d7a2b40bf3e4740a74e5d10a5/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/gauri/.gradle/caches/transforms-3/2b20b0a04b7ba8104e87c73a5330bd70/transformed/play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/gauri/.gradle/caches/transforms-3/c449e3799da052e4edf93b7c149cd57d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/gauri/.gradle/caches/transforms-3/f06718c4074787e3cb35d3dd6c37d357/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/gauri/.gradle/caches/transforms-3/624be373cdc259da5d2dfd6aa1de624f/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.play:integrity:1.1.0] /home/gauri/.gradle/caches/transforms-3/491789a0644a8b7860b11b4e7726140d/transformed/integrity-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/gauri/.gradle/caches/transforms-3/a22b84ad896943e0975511d6e7e20d21/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/897be24f742331db6d7c0c84ade951a6/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /home/gauri/.gradle/caches/transforms-3/6a11ec7b48ab3c7c7c1e8b23282acbb0/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /home/gauri/.gradle/caches/transforms-3/517bf158dbb36388b1326763bbdb9149/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.0] /home/gauri/.gradle/caches/transforms-3/615f0847700a079944ed47649af89e1d/transformed/fragment-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.2] /home/gauri/.gradle/caches/transforms-3/3b285bdae7f5a1a181e7ecf54bca47ff/transformed/activity-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ab9e348b8cdb99efd34d0906b6a09b26/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b1310db09adecc9c250bcc5a562de1e/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/gauri/.gradle/caches/transforms-3/d2505d15e70c782c48e7e21925351317/transformed/activity-ktx-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/gauri/.gradle/caches/transforms-3/e98a718ccad1e54af5dfa3399b90855e/transformed/activity-compose-1.7.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/gauri/.gradle/caches/transforms-3/e800317febdfa3712aa7286a721906b2/transformed/ui-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gauri/.gradle/caches/transforms-3/784c6a386847cb445c00032eeeca6965/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gauri/.gradle/caches/transforms-3/2a8bcaa580258ba3d49ab031e2b0e115/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gauri/.gradle/caches/transforms-3/1de163644cea336e8ebb1953e10bbc62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gauri/.gradle/caches/transforms-3/92e2a400ed22db865bb72bc03b53296a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/acd60a29ac9ff4ab4ba3a6f3247aa49f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ac62b4df3ce32a2a1ae451d32daad7cf/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b7bbd750addbdea1e66fd86be4a4d89/transformed/navigation-common-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/10e9d3fd52e6b171e68610a4d06a080e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/gauri/.gradle/caches/transforms-3/a64d0f45fd8d27bb6fefd7c2bbb9bae4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/gauri/.gradle/caches/transforms-3/93a86346d41b93f18e939653b6cc056c/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/gauri/.gradle/caches/transforms-3/d6b99b2b808d8441db149e64783932d5/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/gauri/.gradle/caches/transforms-3/fda222ec21912ea1ceb242eba41fb04e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/gauri/.gradle/caches/transforms-3/9581cde76b759678f4135febea35e5be/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gauri/.gradle/caches/transforms-3/a81e6802bdff0151ddef8fe66f0ff6cd/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gauri/.gradle/caches/transforms-3/34a34afc4a51d01950a278dd0490b44c/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/gauri/.gradle/caches/transforms-3/8c2fa4a1c5755b13ea725cbf5abc9b65/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gauri/.gradle/caches/transforms-3/d94083900a34b9274016e52a703b76b3/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gauri/.gradle/caches/transforms-3/ceaa6fe5e4eefd1caa027411ef29ef81/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gauri/.gradle/caches/transforms-3/b2b7bbd2b587c8d44656ee71d7275698/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gauri/.gradle/caches/transforms-3/2391ad40962a584975e2343d4123dd34/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gauri/.gradle/caches/transforms-3/8e5e4a04077191502fdac55efcf8e9b1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gauri/.gradle/caches/transforms-3/147f11030ab1462270074075e8c59470/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gauri/.gradle/caches/transforms-3/c32d5c26c0c1e75184f79ee49ecdda64/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gauri/.gradle/caches/transforms-3/9815f8d7502ec555478db28051e1c372/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/gauri/.gradle/caches/transforms-3/3f67ff3a0875a81d30d0e6ef749dea75/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /home/gauri/.gradle/caches/transforms-3/569b9eae1829155aa5ac443991a922ac/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/gauri/.gradle/caches/transforms-3/64793fb35171103c638b1e2087834d6d/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/gauri/.gradle/caches/transforms-3/6d8a4eb763a4efc4dc946d6d4de58666/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/b9a0e3a6518afebe431b918ba581739f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/gauri/.gradle/caches/transforms-3/bc4c3dab01c55fb432a0844a9be47f2b/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/gauri/.gradle/caches/transforms-3/e49c8f7a89ce595d765dbb6a55c336b3/transformed/runtime-1.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gauri/.gradle/caches/transforms-3/19232d591c04970fb3ee6c1fddc90050/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gauri/.gradle/caches/transforms-3/a455546ab0a313fec68d57f197b29617/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/gauri/.gradle/caches/transforms-3/3d986954ee7eecae36df4a10653186a7/transformed/firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gauri/.gradle/caches/transforms-3/c87361ff0d3fe1c6ae901d0c7811625a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gauri/.gradle/caches/transforms-3/1105168ac5cbbf3806e87cf95822ad5a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gauri/.gradle/caches/transforms-3/82c98d306f6e46421d78c075de2712bf/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gauri/.gradle/caches/transforms-3/4225d6a846630a9b83234eff3313c0c9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gauri/.gradle/caches/transforms-3/d779afa1968ddc3a9ecd07cf1a4922b8/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gauri/.gradle/caches/transforms-3/22ad1e2a8cba0ad984c831d913f913b7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gauri/.gradle/caches/transforms-3/ae1c6d0c4945d476d5a60cf01ec62278/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gauri/.gradle/caches/transforms-3/a7712757bfa467f981ea4c34b63398f6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.52.1] /home/gauri/.gradle/caches/transforms-3/704273a0b9435b6f2534e7669fe3f48b/transformed/grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/gauri/.gradle/caches/transforms-3/d65cd0097d63cae2cb33991d93c3f2f7/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:4:5-38:19
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:4:5-38:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.material:material:1.6.1] /home/gauri/.gradle/caches/transforms-3/d83ea7f71c670c0d372631a200465e73/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /home/gauri/.gradle/caches/transforms-3/d83ea7f71c670c0d372631a200465e73/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gauri/.gradle/caches/transforms-3/49890bb4dcb9580d11fbded874be3373/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gauri/.gradle/caches/transforms-3/49890bb4dcb9580d11fbded874be3373/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/gauri/.gradle/caches/transforms-3/2b20b0a04b7ba8104e87c73a5330bd70/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/gauri/.gradle/caches/transforms-3/2b20b0a04b7ba8104e87c73a5330bd70/transformed/play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/gauri/.gradle/caches/transforms-3/c449e3799da052e4edf93b7c149cd57d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/gauri/.gradle/caches/transforms-3/c449e3799da052e4edf93b7c149cd57d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/gauri/.gradle/caches/transforms-3/624be373cdc259da5d2dfd6aa1de624f/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/gauri/.gradle/caches/transforms-3/624be373cdc259da5d2dfd6aa1de624f/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/gauri/.gradle/caches/transforms-3/491789a0644a8b7860b11b4e7726140d/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/gauri/.gradle/caches/transforms-3/491789a0644a8b7860b11b4e7726140d/transformed/integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/gauri/.gradle/caches/transforms-3/a22b84ad896943e0975511d6e7e20d21/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/gauri/.gradle/caches/transforms-3/a22b84ad896943e0975511d6e7e20d21/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gauri/.gradle/caches/transforms-3/c87361ff0d3fe1c6ae901d0c7811625a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gauri/.gradle/caches/transforms-3/c87361ff0d3fe1c6ae901d0c7811625a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:10:9-35
+	android:fullBackupContent
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:7:9-54
+	android:roundIcon
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:12:9-29
+	android:icon
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:11:9-55
+	android:dataExtractionRules
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:6:9-65
+activity#com.example.recyclerview_todo.MainActivity2
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:13:9-17:15
+	android:exported
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:15:13-37
+	android:theme
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:16:13-43
+	android:name
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:14:13-42
+activity#com.example.recyclerview_todo.LoginPage
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:21:13-38
+	android:exported
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:20:13-36
+	android:theme
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:19:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.recyclerview_todo.MainActivity
+ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:exported
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml:30:13-41
+uses-sdk
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.1.2] /home/gauri/.gradle/caches/transforms-3/bc9a6c1d3328197d7983781549867dff/transformed/databinding-adapters-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.1.2] /home/gauri/.gradle/caches/transforms-3/bc9a6c1d3328197d7983781549867dff/transformed/databinding-adapters-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.1.2] /home/gauri/.gradle/caches/transforms-3/b1830322c6619006a22c464d95e98ac4/transformed/databinding-ktx-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.1.2] /home/gauri/.gradle/caches/transforms-3/b1830322c6619006a22c464d95e98ac4/transformed/databinding-ktx-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.1.2] /home/gauri/.gradle/caches/transforms-3/18ad26c5484381ca1a3ddeefd9eafa3f/transformed/databinding-runtime-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.1.2] /home/gauri/.gradle/caches/transforms-3/18ad26c5484381ca1a3ddeefd9eafa3f/transformed/databinding-runtime-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/gauri/.gradle/caches/transforms-3/d7ed84c09ceecb028b58d39ff11fc579/transformed/viewbinding-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.2] /home/gauri/.gradle/caches/transforms-3/d7ed84c09ceecb028b58d39ff11fc579/transformed/viewbinding-8.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/fc453767167616f6175e318440ab8765/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/fc453767167616f6175e318440ab8765/transformed/navigation-ui-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /home/gauri/.gradle/caches/transforms-3/a1249c01808868fc8e59c164bc378f84/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /home/gauri/.gradle/caches/transforms-3/a1249c01808868fc8e59c164bc378f84/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/gauri/.gradle/caches/transforms-3/d83ea7f71c670c0d372631a200465e73/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/gauri/.gradle/caches/transforms-3/d83ea7f71c670c0d372631a200465e73/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gauri/.gradle/caches/transforms-3/49890bb4dcb9580d11fbded874be3373/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gauri/.gradle/caches/transforms-3/49890bb4dcb9580d11fbded874be3373/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gauri/.gradle/caches/transforms-3/8741c1b10a90b687f9aa4d5ab914a0e6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gauri/.gradle/caches/transforms-3/8741c1b10a90b687f9aa4d5ab914a0e6/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gauri/.gradle/caches/transforms-3/4ee64f6aaf9546023889aaad643cf891/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gauri/.gradle/caches/transforms-3/4ee64f6aaf9546023889aaad643cf891/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/gauri/.gradle/caches/transforms-3/22dac88c5d6580f6592572430df8a2fc/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.0] /home/gauri/.gradle/caches/transforms-3/22dac88c5d6580f6592572430df8a2fc/transformed/material3-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/gauri/.gradle/caches/transforms-3/cc8285ca0ce17c89fb398296691ecbed/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.4.0] /home/gauri/.gradle/caches/transforms-3/cc8285ca0ce17c89fb398296691ecbed/transformed/material-ripple-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/24a56678bf4fc8de26400517b174152d/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/24a56678bf4fc8de26400517b174152d/transformed/material-icons-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /home/gauri/.gradle/caches/transforms-3/dfef6dd210f32e4e26b157d0fb3413cf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.4.0] /home/gauri/.gradle/caches/transforms-3/dfef6dd210f32e4e26b157d0fb3413cf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/09111d55a2a844662096bfe29bf343d2/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.4.0] /home/gauri/.gradle/caches/transforms-3/09111d55a2a844662096bfe29bf343d2/transformed/animation-core-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/gauri/.gradle/caches/transforms-3/eb7dbd7b8f3a91bfbd9c75525d03ec55/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.4.0] /home/gauri/.gradle/caches/transforms-3/eb7dbd7b8f3a91bfbd9c75525d03ec55/transformed/animation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/gauri/.gradle/caches/transforms-3/8f1562c4f297618719da4011e53936b0/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.4.0] /home/gauri/.gradle/caches/transforms-3/8f1562c4f297618719da4011e53936b0/transformed/foundation-layout-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/gauri/.gradle/caches/transforms-3/7bc69519a0d607d6b7a1414cb92575dc/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.4.0] /home/gauri/.gradle/caches/transforms-3/7bc69519a0d607d6b7a1414cb92575dc/transformed/foundation-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /home/gauri/.gradle/caches/transforms-3/c2961d6675c3220deb593d00316d20f9/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.4.0] /home/gauri/.gradle/caches/transforms-3/c2961d6675c3220deb593d00316d20f9/transformed/ui-tooling-data-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/gauri/.gradle/caches/transforms-3/d7545651ab5077125ad1eb0fb4d97bed/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.4.0] /home/gauri/.gradle/caches/transforms-3/d7545651ab5077125ad1eb0fb4d97bed/transformed/ui-unit-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/gauri/.gradle/caches/transforms-3/10745767fa7d5fa46f3eef44b6ed9b43/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.4.0] /home/gauri/.gradle/caches/transforms-3/10745767fa7d5fa46f3eef44b6ed9b43/transformed/ui-geometry-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/gauri/.gradle/caches/transforms-3/f35b2a01883eee86415afc88e88480d1/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.4.0] /home/gauri/.gradle/caches/transforms-3/f35b2a01883eee86415afc88e88480d1/transformed/ui-util-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/gauri/.gradle/caches/transforms-3/4649673646d5d75d24819c32a0a0a6ce/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.4.0] /home/gauri/.gradle/caches/transforms-3/4649673646d5d75d24819c32a0a0a6ce/transformed/ui-text-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/gauri/.gradle/caches/transforms-3/3a02e2d142cb56ae272856184c14ea64/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.4.0] /home/gauri/.gradle/caches/transforms-3/3a02e2d142cb56ae272856184c14ea64/transformed/ui-tooling-preview-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/gauri/.gradle/caches/transforms-3/3ef2c9e922008943a04dd6443e395566/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.4.0] /home/gauri/.gradle/caches/transforms-3/3ef2c9e922008943a04dd6443e395566/transformed/ui-graphics-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /home/gauri/.gradle/caches/transforms-3/d94567acd6211eb00a8399638b286179/transformed/recyclerview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] /home/gauri/.gradle/caches/transforms-3/d94567acd6211eb00a8399638b286179/transformed/recyclerview-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/gauri/.gradle/caches/transforms-3/8b21ff3d2e3434399f0eba66382f3c7e/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /home/gauri/.gradle/caches/transforms-3/8b21ff3d2e3434399f0eba66382f3c7e/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/gauri/.gradle/caches/transforms-3/7c349e32983bee36439a53f491a5b706/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/gauri/.gradle/caches/transforms-3/7c349e32983bee36439a53f491a5b706/transformed/play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/gauri/.gradle/caches/transforms-3/31f5173d7a2b40bf3e4740a74e5d10a5/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/gauri/.gradle/caches/transforms-3/31f5173d7a2b40bf3e4740a74e5d10a5/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/gauri/.gradle/caches/transforms-3/2b20b0a04b7ba8104e87c73a5330bd70/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/gauri/.gradle/caches/transforms-3/2b20b0a04b7ba8104e87c73a5330bd70/transformed/play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/gauri/.gradle/caches/transforms-3/c449e3799da052e4edf93b7c149cd57d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/gauri/.gradle/caches/transforms-3/c449e3799da052e4edf93b7c149cd57d/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/gauri/.gradle/caches/transforms-3/f06718c4074787e3cb35d3dd6c37d357/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/gauri/.gradle/caches/transforms-3/f06718c4074787e3cb35d3dd6c37d357/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/gauri/.gradle/caches/transforms-3/624be373cdc259da5d2dfd6aa1de624f/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/gauri/.gradle/caches/transforms-3/624be373cdc259da5d2dfd6aa1de624f/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/gauri/.gradle/caches/transforms-3/491789a0644a8b7860b11b4e7726140d/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/gauri/.gradle/caches/transforms-3/491789a0644a8b7860b11b4e7726140d/transformed/integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/gauri/.gradle/caches/transforms-3/a22b84ad896943e0975511d6e7e20d21/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/gauri/.gradle/caches/transforms-3/a22b84ad896943e0975511d6e7e20d21/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/897be24f742331db6d7c0c84ade951a6/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/897be24f742331db6d7c0c84ade951a6/transformed/navigation-fragment-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /home/gauri/.gradle/caches/transforms-3/6a11ec7b48ab3c7c7c1e8b23282acbb0/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /home/gauri/.gradle/caches/transforms-3/6a11ec7b48ab3c7c7c1e8b23282acbb0/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /home/gauri/.gradle/caches/transforms-3/517bf158dbb36388b1326763bbdb9149/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.0] /home/gauri/.gradle/caches/transforms-3/517bf158dbb36388b1326763bbdb9149/transformed/fragment-ktx-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /home/gauri/.gradle/caches/transforms-3/615f0847700a079944ed47649af89e1d/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.0] /home/gauri/.gradle/caches/transforms-3/615f0847700a079944ed47649af89e1d/transformed/fragment-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.2] /home/gauri/.gradle/caches/transforms-3/3b285bdae7f5a1a181e7ecf54bca47ff/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.2] /home/gauri/.gradle/caches/transforms-3/3b285bdae7f5a1a181e7ecf54bca47ff/transformed/activity-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ab9e348b8cdb99efd34d0906b6a09b26/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ab9e348b8cdb99efd34d0906b6a09b26/transformed/navigation-runtime-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b1310db09adecc9c250bcc5a562de1e/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b1310db09adecc9c250bcc5a562de1e/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/gauri/.gradle/caches/transforms-3/d2505d15e70c782c48e7e21925351317/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.7.2] /home/gauri/.gradle/caches/transforms-3/d2505d15e70c782c48e7e21925351317/transformed/activity-ktx-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/gauri/.gradle/caches/transforms-3/e98a718ccad1e54af5dfa3399b90855e/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.7.2] /home/gauri/.gradle/caches/transforms-3/e98a718ccad1e54af5dfa3399b90855e/transformed/activity-compose-1.7.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/gauri/.gradle/caches/transforms-3/e800317febdfa3712aa7286a721906b2/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.4.0] /home/gauri/.gradle/caches/transforms-3/e800317febdfa3712aa7286a721906b2/transformed/ui-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gauri/.gradle/caches/transforms-3/784c6a386847cb445c00032eeeca6965/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/gauri/.gradle/caches/transforms-3/784c6a386847cb445c00032eeeca6965/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gauri/.gradle/caches/transforms-3/2a8bcaa580258ba3d49ab031e2b0e115/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gauri/.gradle/caches/transforms-3/2a8bcaa580258ba3d49ab031e2b0e115/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gauri/.gradle/caches/transforms-3/1de163644cea336e8ebb1953e10bbc62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gauri/.gradle/caches/transforms-3/1de163644cea336e8ebb1953e10bbc62/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gauri/.gradle/caches/transforms-3/92e2a400ed22db865bb72bc03b53296a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gauri/.gradle/caches/transforms-3/92e2a400ed22db865bb72bc03b53296a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/acd60a29ac9ff4ab4ba3a6f3247aa49f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/acd60a29ac9ff4ab4ba3a6f3247aa49f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ac62b4df3ce32a2a1ae451d32daad7cf/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.0] /home/gauri/.gradle/caches/transforms-3/ac62b4df3ce32a2a1ae451d32daad7cf/transformed/navigation-common-ktx-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b7bbd750addbdea1e66fd86be4a4d89/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /home/gauri/.gradle/caches/transforms-3/3b7bbd750addbdea1e66fd86be4a4d89/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/10e9d3fd52e6b171e68610a4d06a080e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/10e9d3fd52e6b171e68610a4d06a080e/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/gauri/.gradle/caches/transforms-3/a64d0f45fd8d27bb6fefd7c2bbb9bae4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/gauri/.gradle/caches/transforms-3/a64d0f45fd8d27bb6fefd7c2bbb9bae4/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/gauri/.gradle/caches/transforms-3/93a86346d41b93f18e939653b6cc056c/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/gauri/.gradle/caches/transforms-3/93a86346d41b93f18e939653b6cc056c/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/gauri/.gradle/caches/transforms-3/d6b99b2b808d8441db149e64783932d5/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] /home/gauri/.gradle/caches/transforms-3/d6b99b2b808d8441db149e64783932d5/transformed/lifecycle-service-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/gauri/.gradle/caches/transforms-3/fda222ec21912ea1ceb242eba41fb04e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/gauri/.gradle/caches/transforms-3/fda222ec21912ea1ceb242eba41fb04e/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/gauri/.gradle/caches/transforms-3/9581cde76b759678f4135febea35e5be/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/gauri/.gradle/caches/transforms-3/9581cde76b759678f4135febea35e5be/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gauri/.gradle/caches/transforms-3/a81e6802bdff0151ddef8fe66f0ff6cd/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gauri/.gradle/caches/transforms-3/a81e6802bdff0151ddef8fe66f0ff6cd/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gauri/.gradle/caches/transforms-3/34a34afc4a51d01950a278dd0490b44c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gauri/.gradle/caches/transforms-3/34a34afc4a51d01950a278dd0490b44c/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/gauri/.gradle/caches/transforms-3/8c2fa4a1c5755b13ea725cbf5abc9b65/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/gauri/.gradle/caches/transforms-3/8c2fa4a1c5755b13ea725cbf5abc9b65/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gauri/.gradle/caches/transforms-3/d94083900a34b9274016e52a703b76b3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gauri/.gradle/caches/transforms-3/d94083900a34b9274016e52a703b76b3/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gauri/.gradle/caches/transforms-3/ceaa6fe5e4eefd1caa027411ef29ef81/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gauri/.gradle/caches/transforms-3/ceaa6fe5e4eefd1caa027411ef29ef81/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gauri/.gradle/caches/transforms-3/b2b7bbd2b587c8d44656ee71d7275698/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gauri/.gradle/caches/transforms-3/b2b7bbd2b587c8d44656ee71d7275698/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gauri/.gradle/caches/transforms-3/2391ad40962a584975e2343d4123dd34/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gauri/.gradle/caches/transforms-3/2391ad40962a584975e2343d4123dd34/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gauri/.gradle/caches/transforms-3/8e5e4a04077191502fdac55efcf8e9b1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gauri/.gradle/caches/transforms-3/8e5e4a04077191502fdac55efcf8e9b1/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gauri/.gradle/caches/transforms-3/147f11030ab1462270074075e8c59470/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/gauri/.gradle/caches/transforms-3/147f11030ab1462270074075e8c59470/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gauri/.gradle/caches/transforms-3/c32d5c26c0c1e75184f79ee49ecdda64/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gauri/.gradle/caches/transforms-3/c32d5c26c0c1e75184f79ee49ecdda64/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gauri/.gradle/caches/transforms-3/9815f8d7502ec555478db28051e1c372/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gauri/.gradle/caches/transforms-3/9815f8d7502ec555478db28051e1c372/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/gauri/.gradle/caches/transforms-3/3f67ff3a0875a81d30d0e6ef749dea75/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/gauri/.gradle/caches/transforms-3/3f67ff3a0875a81d30d0e6ef749dea75/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/gauri/.gradle/caches/transforms-3/569b9eae1829155aa5ac443991a922ac/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/gauri/.gradle/caches/transforms-3/569b9eae1829155aa5ac443991a922ac/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/gauri/.gradle/caches/transforms-3/64793fb35171103c638b1e2087834d6d/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/gauri/.gradle/caches/transforms-3/64793fb35171103c638b1e2087834d6d/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/gauri/.gradle/caches/transforms-3/6d8a4eb763a4efc4dc946d6d4de58666/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/gauri/.gradle/caches/transforms-3/6d8a4eb763a4efc4dc946d6d4de58666/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/b9a0e3a6518afebe431b918ba581739f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/gauri/.gradle/caches/transforms-3/b9a0e3a6518afebe431b918ba581739f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/gauri/.gradle/caches/transforms-3/bc4c3dab01c55fb432a0844a9be47f2b/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.4.0] /home/gauri/.gradle/caches/transforms-3/bc4c3dab01c55fb432a0844a9be47f2b/transformed/runtime-saveable-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/gauri/.gradle/caches/transforms-3/e49c8f7a89ce595d765dbb6a55c336b3/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.4.0] /home/gauri/.gradle/caches/transforms-3/e49c8f7a89ce595d765dbb6a55c336b3/transformed/runtime-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gauri/.gradle/caches/transforms-3/19232d591c04970fb3ee6c1fddc90050/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gauri/.gradle/caches/transforms-3/19232d591c04970fb3ee6c1fddc90050/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gauri/.gradle/caches/transforms-3/a455546ab0a313fec68d57f197b29617/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gauri/.gradle/caches/transforms-3/a455546ab0a313fec68d57f197b29617/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/gauri/.gradle/caches/transforms-3/3d986954ee7eecae36df4a10653186a7/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/gauri/.gradle/caches/transforms-3/3d986954ee7eecae36df4a10653186a7/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gauri/.gradle/caches/transforms-3/c87361ff0d3fe1c6ae901d0c7811625a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gauri/.gradle/caches/transforms-3/c87361ff0d3fe1c6ae901d0c7811625a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gauri/.gradle/caches/transforms-3/1105168ac5cbbf3806e87cf95822ad5a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gauri/.gradle/caches/transforms-3/1105168ac5cbbf3806e87cf95822ad5a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gauri/.gradle/caches/transforms-3/82c98d306f6e46421d78c075de2712bf/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gauri/.gradle/caches/transforms-3/82c98d306f6e46421d78c075de2712bf/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gauri/.gradle/caches/transforms-3/4225d6a846630a9b83234eff3313c0c9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gauri/.gradle/caches/transforms-3/4225d6a846630a9b83234eff3313c0c9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gauri/.gradle/caches/transforms-3/d779afa1968ddc3a9ecd07cf1a4922b8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gauri/.gradle/caches/transforms-3/d779afa1968ddc3a9ecd07cf1a4922b8/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gauri/.gradle/caches/transforms-3/22ad1e2a8cba0ad984c831d913f913b7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gauri/.gradle/caches/transforms-3/22ad1e2a8cba0ad984c831d913f913b7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gauri/.gradle/caches/transforms-3/ae1c6d0c4945d476d5a60cf01ec62278/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gauri/.gradle/caches/transforms-3/ae1c6d0c4945d476d5a60cf01ec62278/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gauri/.gradle/caches/transforms-3/a7712757bfa467f981ea4c34b63398f6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gauri/.gradle/caches/transforms-3/a7712757bfa467f981ea4c34b63398f6/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] /home/gauri/.gradle/caches/transforms-3/704273a0b9435b6f2534e7669fe3f48b/transformed/grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] /home/gauri/.gradle/caches/transforms-3/704273a0b9435b6f2534e7669fe3f48b/transformed/grpc-android-1.52.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/gauri/.gradle/caches/transforms-3/d65cd0097d63cae2cb33991d93c3f2f7/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/gauri/.gradle/caches/transforms-3/d65cd0097d63cae2cb33991d93c3f2f7/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gauri/AndroidStudioProjects/RecyclerView_todo/app/src/main/AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.9.0] /home/gauri/.gradle/caches/transforms-3/43de3e3f72d7cafd94e0fa19f0fe00da/transformed/firebase-firestore-ktx-24.9.0/AndroidManifest.xml:13:17-129
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.4.0] /home/gauri/.gradle/caches/transforms-3/6235303270b1eba9dbb91ecf2fd65992/transformed/ui-test-manifest-1.4.0/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.4.0] /home/gauri/.gradle/caches/transforms-3/7446978e761c480c5ca51a8cb97f0805/transformed/ui-tooling-1.4.0/AndroidManifest.xml:24:13-71
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/gauri/.gradle/caches/transforms-3/9f4826f4d274b5f7390b65c0cbdf2077/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.2.0] /home/gauri/.gradle/caches/transforms-3/ff24f90f5316055f3b197e9251e3d70e/transformed/firebase-auth-ktx-22.2.0/AndroidManifest.xml:12:17-119
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/gauri/.gradle/caches/transforms-3/41f0a24fe7e6bad87ee583248522ab11/transformed/recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /home/gauri/.gradle/caches/transforms-3/704273a0b9435b6f2534e7669fe3f48b/transformed/grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] /home/gauri/.gradle/caches/transforms-3/704273a0b9435b6f2534e7669fe3f48b/transformed/grpc-android-1.52.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/gauri/.gradle/caches/transforms-3/306abaabe41cfe06ae1a30341fb5a428/transformed/firebase-auth-22.2.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.9.0] /home/gauri/.gradle/caches/transforms-3/574f68228a5b1a52144c6a6ff0e2f2e3/transformed/firebase-firestore-24.9.0/AndroidManifest.xml:21:17-111
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/gauri/.gradle/caches/transforms-3/e28121e44ee587e9ebe2063d58a490b5/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/gauri/.gradle/caches/transforms-3/adb92af96c929c3d12e6e9c0e4d86d2e/transformed/firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/gauri/.gradle/caches/transforms-3/16e99b17c918ed325bfc8022d7f4600b/transformed/firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/gauri/.gradle/caches/transforms-3/2db7d4ff9eb9287c238d6d4acd8fe550/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gauri/.gradle/caches/transforms-3/cbebb5ce83a237192215f5b24e8b2f60/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/gauri/.gradle/caches/transforms-3/404f21a5b5277a40663580d66d61a44e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/gauri/.gradle/caches/transforms-3/06111d2aa8bb4daefeef25a7d80bcc7c/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/gauri/.gradle/caches/transforms-3/8aaa6ec83de479db1d6d8ef1912a2504/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.recyclerview_todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.recyclerview_todo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gauri/.gradle/caches/transforms-3/68efebe1f6fffd48b1f46254a969a3fa/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gauri/.gradle/caches/transforms-3/e1baf59b7dc7f87af1eaad9f00f64a93/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

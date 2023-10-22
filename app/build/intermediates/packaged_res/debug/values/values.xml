@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#04213C</color>
+    <color name="black">#FF000000</color>
+    <color name="edit_text_clr">#031F3A</color>
+    <color name="end_color">#0B3965</color>
+    <color name="end_color_btn">#00253F</color>
+    <color name="nav_drawer">#05315A</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="start_color">#042B50</color>
+    <color name="start_color_btn">#E9020F19</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_color">#F0F8FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">RecyclerView_todo</string>
+    <string name="close">close</string>
+    <string name="default_web_client_id">6248141236-6ug8qn4hcn9c3gftpj44nv6hfudj0uoc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">6248141236</string>
+    <string name="google_api_key" translatable="false">AIzaSyCg4Qa48m1d21AwOFC3qh2SvU5ftAVunDE</string>
+    <string name="google_app_id" translatable="false">1:6248141236:android:78c0362677bef1372aa2e1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCg4Qa48m1d21AwOFC3qh2SvU5ftAVunDE</string>
+    <string name="google_storage_bucket" translatable="false">todo-app-dea93.appspot.com</string>
+    <string name="open">open</string>
+    <string name="project_id" translatable="false">todo-app-dea93</string>
+    <style name="MyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/nav_drawer</item>
+    </style>
+    <style name="Theme.RecyclerView_todo" parent="Theme.AppCompat.Light.NoActionBar"/>
+</resources>

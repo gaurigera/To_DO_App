@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/xml_backup_rules.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/menu_top_nav_menu.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/menu/top_nav_menu.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/layout_login_page.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/layout/login_page.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/layout_activity_main2.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/layout_top_nav_bar.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/layout/top_nav_bar.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclerview_todo.app-merged_res-78:/layout_activity_main2.xml.flat",
+        "source": "com.example.recyclerview_todo.app-main-80:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclerview_todo.app-merged_res-78:/layout_single_task.xml.flat",
+        "source": "com.example.recyclerview_todo.app-main-80:/layout/single_task.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/layout_single_task.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/layout/single_task.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/drawable_gradient.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/drawable/gradient.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/layout_activity_main.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/drawable_button_gradient.xml.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/drawable/button_gradient.xml"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/gauri/.gradle/daemon/8.0/com.example.recyclerview_todo.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
